@@ -19,7 +19,9 @@ app.get('/cookie', (req, res)=>{
 })
 
 
+// PUT
 
+// DELETE
 
 // POST /cookie
 app.post('/cookie', (req, res)=>{
